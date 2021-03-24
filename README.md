@@ -2,4 +2,4 @@
 Projection of 4D tesseract with interactive UI.
 
 # Screen capture
-![Capture](https://github.com/mozkomor05/Dimenzo90/blob/master/captures/capture.gif)
+![Capture](https://github.com/mozkomor05/Dimenzo90/blob/master/captures/capture.gif)b
